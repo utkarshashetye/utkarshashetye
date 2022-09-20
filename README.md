@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Something New.
-- 🌱 I’m Completed my BTECH in Computer Science and Engineering.
+- 🔭 I’m currently working on Something New .
+- 🌱 I’m Completed Tmy BTECH in Computer Science and Engineering.
 - 📫 How to reach me
  utkarshashetye29@gmail.com 
  
